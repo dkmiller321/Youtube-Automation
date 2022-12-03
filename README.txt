@@ -1,0 +1,1 @@
+The purpose of this software is to automate the process of uploading content to youtube by pulling from external sources (tik tok, instagram, facebook, twitter)
